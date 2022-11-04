@@ -1,0 +1,16 @@
+@use 'sass:color';
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;900&display=swap');
+
+$font-family-sans-serif: 'Montserrat', sans-serif;
+
+//$font-family-serif: 'Georgia', 'Times New Roman', serif;
+
+$--text-color: #2a2a2a;
+$--accent-color: #888;
+$--contrast-color: #dc4a23;
+$--accent-light-color: #c5e1db;
+$--contrast-light-color: #eb9781;
+$--bg-body-color: #ebebeb;
+
+//$mqMinWidth: 420px;
