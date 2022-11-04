@@ -33,17 +33,6 @@ h2 {
   letter-spacing: 1.4px;
 }
 
-@media (max-width: 768px) {
-  body {
-    font-size: 1rem;
-  }
-
-  h2 {
-    font-size: 2rem;
-    letter-spacing: 0;
-  }
-}
-
 p {
   margin-bottom: 1rem;
 }
@@ -250,20 +239,6 @@ footer a:hover {
 }
 
 /* Main content */
-main {
-  padding-top: 100px;
-}
-
-main header {
-  margin-bottom: 25px;
-}
-
-@media (max-width: 767px) {
-  main header {
-    text-align: center;
-  }
-}
-
 .title-lined {
   position: relative;
   margin-top: 0;
