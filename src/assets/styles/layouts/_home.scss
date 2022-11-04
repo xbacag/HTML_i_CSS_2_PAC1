@@ -339,17 +339,17 @@ Home page
 
 /* Text items */
 .text-item {
-  @include grid-for-text(400px);
+  @include grid-for-text(360px);
 }
 
 /* Experience items */
 .experience-list {
-  @include grid-for-text(400px);
+  @include grid-for-text(360px);
 }
 
 /* Education items */
 .education-list {
-  @include grid-for-text(400px);
+  @include grid-for-text(360px);
 }
 
 /* Projects  */
